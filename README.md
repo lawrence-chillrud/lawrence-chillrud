@@ -1,4 +1,7 @@
-### Hi there 👋
+### Lawrence Chillrud
+Senior Programmer at the Mailman School of Public Health
+Interested in ML, AI, public health and healthcare / precision medicine.
+Pronouns: He, Him, His
 
 <!--
 **lawrence-chillrud/lawrence-chillrud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
