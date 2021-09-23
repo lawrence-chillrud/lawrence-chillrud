@@ -1,6 +1,8 @@
 ### Lawrence Chillrud
 Senior Programmer at the Mailman School of Public Health
+
 Interested in ML, AI, public health and healthcare / precision medicine.
+
 Pronouns: He, Him, His
 
 <!--
