@@ -1,7 +1,7 @@
 ### Lawrence Chillrud
-Senior Programmer at the Mailman School of Public Health
+Senior Programmer at Columbia University's Mailman School of Public Health.
 
-Interested in ML, AI, public health and healthcare / precision medicine.
+Interested in interpretable, robust, and fair ML / AI methods-development, with applications in public health, clinical healthcare, and precision medicine.
 
 Pronouns: He, Him, His
 
