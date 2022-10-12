@@ -1,9 +1,11 @@
 ### Lawrence Chillrud
-Senior Programmer in the Department of Environmental Health Sciences at Columbia University's Mailman School of Public Health.
+Electrical Engineering PhD Student at Northwestern University.
 
-Interested in interpretable, robust, and fair machine learning / artificial intelligence methods-development, with applications in public health, clinical healthcare, and precision medicine.
+Interested in interpretable, robust, and fair machine learning / artificial intelligence methods-development, with applications in precision medicine, clinical healthcare, and public health & epidemiology.
 
 Pronouns: He, Him, His
+
+Formerly a senior programmer at Columbia University's Mailman School of Public Health, where I worked in the Department of Environmental Health Sciences on methods for the analysis of complex environmental mixtures. 
 
 <!--
 **lawrence-chillrud/lawrence-chillrud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
