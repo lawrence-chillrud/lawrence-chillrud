@@ -1,7 +1,7 @@
 ### Lawrence Chillrud
 Electrical Engineering PhD Student at Northwestern University.
 
-Interested in interpretable, robust, and fair machine learning / artificial intelligence methods-development, with applications in precision medicine, clinical healthcare, and public health & epidemiology.
+Interested robust and fair machine learning / artificial intelligence methods-development, with applications in precision medicine, clinical healthcare, and public health & epidemiology.
 
 Pronouns: He, Him, His
 
